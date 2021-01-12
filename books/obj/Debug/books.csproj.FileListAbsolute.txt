@@ -1,0 +1,10 @@
+C:\Users\Eliot\source\repos\books\books\bin\Debug\books.exe.config
+C:\Users\Eliot\source\repos\books\books\bin\Debug\books.exe
+C:\Users\Eliot\source\repos\books\books\bin\Debug\books.pdb
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.csprojAssemblyReference.cache
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.Form1.resources
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.Properties.Resources.resources
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.csproj.GenerateResource.cache
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.csproj.CoreCompileInputs.cache
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.exe
+C:\Users\Eliot\source\repos\books\books\obj\Debug\books.pdb
